@@ -31,11 +31,3 @@ stage.move(10000) # move to position 10000, which corresponds to 50 mm displacem
 stage.move(0) # move back to the original position
 print(stage.position)
 ```
-
-## Images
-### Linear Stage
-![Linear Stage](linear_stage_picture.jpg)
-![Linear Stage Schematic](linear_stage_schematic.jpg)
-
-### CNC shield
-![CNC Shield](cnc_shield_picture.jpg)
